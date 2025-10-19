@@ -1,0 +1,8 @@
+
+export enum AppState {
+  UPLOADING,
+  EDITING,
+  GENERATING,
+  DISPLAYING_RESULT,
+  ERROR,
+}

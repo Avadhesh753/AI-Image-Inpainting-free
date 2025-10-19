@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Inpainting",
+  "description": "An advanced AI-powered image editing application. Users can upload an image, select an area with a brush tool, and describe the desired changes with a text prompt. The app uses the Gemini API to intelligently edit the selected region, offering a powerful and intuitive inpainting experience.",
+  "requestFramePermissions": []
+}
